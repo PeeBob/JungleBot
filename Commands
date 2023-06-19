@@ -1,8 +1,11 @@
 JungleBot commands.
 !die, !kys - Kills the bot
 !quote, !tweet - Fetches a random quote form the quote.txt file
-!discord
-Sends the discord link
+!discord - Sends the discord link
+!doxx - doxx list (joke)
+!come, !follow - follows the closests player
+
+
 
 More to come, if this file is outdated, msg me on discord
 https://discord.gg/peEKrrMYgf
