@@ -1,0 +1,13 @@
+The history of Junglebot
+
+Junglebot was created by Kapt3nen/peebob/me 2023-06-17
+
+Originally Junglebot was supposed to be called "Kanyebot" and the only two commands would've been !die and !quote.
+!quote was also supposed to originnaly only have Ye tweets and quotes but the "Kanyebot" project was scrapped after i figured out how fangirly it would be
+Fun fact, the first 21 quotes in the quote.txt are Kanye tweets or quotes
+
+In the beggining it was very hard to keep JungleBot on the server as the anti-afk pugin kept kicking it. I tried a few methods until i just made him randomly press keys so he would move around and not get kicked.
+It was also quite difficult to workaround the anti-spam plugin, eventually i figured out a way but it still sometimes messes up if you try to do the same command many times in a row
+
+Junglebot currently recides in Junglebot's house at spawm
+
